@@ -123,7 +123,8 @@ The dashboard was designed with executive decision-making in mind.
 
 ## 📬 Author
 
-**Amit Kumar**  
+**Amit Kumar** 
+ 
 Aspiring Data Analyst | Excel • SQL • Power BI  
 Focused on building business-driven analytical dashboards.
 
